@@ -1,0 +1,4 @@
+[submodule "explorer"]
+	path = explorer
+	url = https://github.com/malawadd/JEM4000.git
+	branch = dev
